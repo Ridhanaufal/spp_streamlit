@@ -9,7 +9,7 @@ def hapus_duplikat_nama(df):
 
 # --- Konfigurasi Halaman ---
 st.set_page_config(page_title="Sistem Pembayaran SPP", layout="wide")
-st.title(":bar_chart: Sistem Pengolahan Data Pembayaran SPP Mahasiswa INSTIPER")
+st.title(":bar_chart: Sistem Pengolahan Data Pembayaran SPP Mahasiswa")
 st.caption("Created by: Admin IT KEUANGAN")
 
 # --- Upload File ---
